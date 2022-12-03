@@ -1,6 +1,6 @@
 ## [LU2IN002] Projet de fin de semestre en langage de programmation java : 
-<br>
-(image)(https://previews.123rf.com/images/lukaves/lukaves2104/lukaves210400049/167738643-illustration-de-la-cha%C3%AEne-alimentaire-en-for%C3%AAt-pour-l-exercice-scolaire-.jpg)
+
+![alt text](https://previews.123rf.com/images/lukaves/lukaves2104/lukaves210400049/167738643-illustration-de-la-cha%C3%AEne-alimentaire-en-for%C3%AAt-pour-l-exercice-scolaire-.jpg)
 
 
 # Simulation d'écosystème ressource/predateurs : 

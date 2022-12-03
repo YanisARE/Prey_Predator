@@ -13,13 +13,17 @@
 
 ## Introduction :
 
-Le thème de notre simulation est la chaîne alimentaire dans un biome, avec des agents, les animaux, divisé en deux types. Les prédateurs d'un côté qui chasse dans un Terrain, le tableau de ressource et les proies de l'autre, qui se transforment en ressource une fois tué par un prédateurs. Chaque animal se déplace grâce à ses coordonnés x et y de manière aléatoire dans la carte. Chaque animal possède une vie, représenté par un attribut, énergie, et deux hérité de la classe Animal et son type.
+Le thème de notre simulation est la chaîne alimentaire dans un biome, avec des agents, les animaux, divisés en deux types. Les prédateurs d'un côté qui chasse dans un Terrain, le tableau de ressource et les proies de l'autre, qui se transforment en ressource une fois tué par un prédateurs. Chaque animal se déplace grâce à ses coordonnées x et y de manière aléatoire dans la carte, qui est un monde que l'on supposera torique. Chaque Proie possède une vie, représenté par un attribut énergie compris entre 1 et 10, son espèce, un String et deux hérités de la classe Animal, une coordonée en x et en y. 
 
 
 ### Respect du cahier des charges :
-- [X] 
-- [X] 
-- [X] 
+- [X] Terrain de ressource, d'herbes, d'eau et de viandes.
+- [X] Ressources multiples, eau, viandes et herbes. 
+- [X] Ressource d'eau et d'énergie (pour les prédateurs) dont l'état interne est modifié naturellement, soit par déplacement de l'agent soit par vieillissement, et une ressource de santé
 
 # Annexes :
 ### Diagramme UML des classes : 
+
+
+
+https://www.projetecolo.com/predateurs-et-proies-exemples-et-caracteristiques-446.html#:~:text=Exemples%20de%20superpr%C3%A9dateurs-,Pr%C3%A9dateurs%20et%20proies%20%3A%20quels%20sont%2Dils%20et%20quelles%20sont%20leurs,%C3%A9nergie%20sous%20forme%20de%20nourriture.

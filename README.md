@@ -13,7 +13,7 @@
 
 ## Introduction :
 
-
+Le thème de notre simulation est la chaîne alimentaire dans un biome, avec des agents, les animaux, divisé en deux types. Les prédateurs d'un côté qui chasse dans un Terrain, le tableau de ressource et les proies de l'autre, qui se transforment en ressource une fois tué par un prédateurs. Chaque animal se déplace grâce à ses coordonnés x et y de manière aléatoire dans la carte. Chaque animal possède une vie, représenté par un attribut, énergie, et deux hérité de la classe Animal et son type.
 
 
 ### Respect du cahier des charges :

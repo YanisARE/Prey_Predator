@@ -24,6 +24,6 @@ Le thème de notre simulation est la chaîne alimentaire dans un biome, avec des
 # Annexes :
 ### Diagramme UML des classes : 
 
+![Screenshot from 2022-12-03 17-25-41](https://user-images.githubusercontent.com/99649037/205451279-5caec99f-b197-4876-9a08-8d41383b0910.png)
 
-### Sources : 
 https://www.projetecolo.com/predateurs-et-proies-exemples-et-caracteristiques-446.html#:~:text=Exemples%20de%20superpr%C3%A9dateurs-,Pr%C3%A9dateurs%20et%20proies%20%3A%20quels%20sont%2Dils%20et%20quelles%20sont%20leurs,%C3%A9nergie%20sous%20forme%20de%20nourriture.

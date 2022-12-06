@@ -13,12 +13,13 @@
 
 ## Introduction :
 
-Le thème de notre simulation est la chaîne alimentaire dans un biome, avec des agents, les animaux, divisés en deux types. Les prédateurs d'un côté qui chasse dans un Terrain, le tableau de ressource et les proies de l'autre, qui se transforment en ressource une fois tué par un prédateurs. Chaque animal se déplace grâce à ses coordonnées x et y de manière aléatoire dans la carte, qui est un monde que l'on supposera torique. Chaque Proie possède une vie, représenté par un attribut énergie compris entre 1 et 10, son espèce, un String et deux hérités de la classe Animal, une coordonée en x et en y. 
-Nous avons implémenté des Interfaces afin de péréniser notre code, dans le cas où nous rajouterions des prédateurs ne chassant pas par exemple (Une araignée qui atttendrais qu'une proie se soit fait piéger par ses toiles par exemple), ou donner un comportement à certaines proies qui se trouvent dans la Rivière et qui n'aurais pas la capacité de se déplacer sur Terre). 
+Le thème de notre simulation est la simulation d'une bergerie. Les prédateurs sont des Loups, mais peuvent être étendue  à d'autres types d'animaux par la possibilité facile d'évolution de notre code. Les loups chassent dans un Terrain, cette capacité leur est transmise par une interface chasser, le tableau de ressource contient l'eau, l'herbe et la viande des moutons morts . Chaque animal se déplace grâce à ses coordonnées x et y de manière aléatoire dans la carte, qui est un monde que l'on supposera torique. Chaque Proie possède une vie, représenté par un attribut énergie compris entre 1 et 10 et deux hérités de la classe Animal, une coordonée en x et en y. 
+Nous avons implémenté des Interfaces afin de péréniser notre code, dans le cas où nous rajouterions des prédateurs ne chassant pas par exemple (Un piège placer par un chasseur qui atttendrais qu'une proie se soit fait piéger), ou donner un comportement à certaines proies qui se trouvent dans la Rivière et qui n'aurais pas la capacité de se déplacer sur Terre. 
 
 ### Respect du cahier des charges :
 - [X] Terrain de ressource, d'herbes, d'eau et de viandes.
-- [X] Ressources multiples, eau, viandes et herbes. 
+- [X] Nombre de classe comprise entre 6 et 12.
+- [X] Interface, hérédité et exceptions sont incluent dans le code 
 - [X] Ressource d'eau et d'énergie (pour les prédateurs) dont l'état interne est modifié naturellement, soit par déplacement de l'agent soit par vieillissement, et une ressource de santé
 
 # Annexes :

@@ -1,6 +1,7 @@
 ## [LU2IN002] Projet de fin de semestre en langage de programmation java : 
 
-![alt text](https://previews.123rf.com/images/lukaves/lukaves2104/lukaves210400049/167738643-illustration-de-la-cha%C3%AEne-alimentaire-en-for%C3%AAt-pour-l-exercice-scolaire-.jpg)
+![DALL·E 2022-12-06 18 32 17 - Une bergerie avec des moutons attaqué par des loups ](https://user-images.githubusercontent.com/99649037/205981647-9f9625b3-03e1-4ad6-b0a3-eb475b7e9c56.png)
+
 
 
 # Simulation d'écosystème ressource/predateurs : 
